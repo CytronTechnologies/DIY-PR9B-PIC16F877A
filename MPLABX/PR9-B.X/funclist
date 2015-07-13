@@ -1,0 +1,19 @@
+_delay: CODE, 948 0 48
+_main: CODE, 1808 0 240
+_clearrow1: CODE, 682 0 7
+_clearrow2: CODE, 689 0 7
+_clearrow3: CODE, 696 0 7
+_clearrow4: CODE, 703 0 7
+_beep_twice: CODE, 996 0 52
+_lcd_clr: CODE, 730 0 20
+_beep_once: CODE, 710 0 20
+_lcd_goto: CODE, 800 0 29
+_send_string: CODE, 862 0 39
+_send_config: CODE, 750 0 25
+_scancolumn1: CODE, 1048 0 190
+_scancolumn2: CODE, 1238 0 190
+_scancolumn3: CODE, 1428 0 190
+_scancolumn4: CODE, 1618 0 190
+_e_pulse: CODE, 829 0 33
+_send_char: CODE, 775 0 25
+Total: 1319
